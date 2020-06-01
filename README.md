@@ -1,7 +1,7 @@
 
 # Learning Journal
 
-##Table of Contents
+## *Table of Contents*
 
 -[Learning Journal from Class One]
 
