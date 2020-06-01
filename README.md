@@ -3,6 +3,6 @@
 
 ## *Table of Contents*
 
--[Learning Journal from Class One]
+Item 1 [Learning Journal from Class One]
 
--[Learning Journal from Class Two]
+Item 2 [Learning Journal from Class Two]
