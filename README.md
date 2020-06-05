@@ -1,5 +1,5 @@
 
-# Learning Journal for Sue Gehling *Everything you ever wanted to know about me!*
+# Learning Journal for Sue Gehling...*Everything you ever wanted to know about me!*
 
 ## Table of Contents
 
