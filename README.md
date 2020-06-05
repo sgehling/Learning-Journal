@@ -14,7 +14,7 @@
   
   Here is my [GitHub portfolio page](https://sgehling.github.io/Learning-Journal/). 
 
-### Class 01b--Learning Markdown
+### LAb 01b--Learning Markdown
  To me, ***growth mindset*** represents an attribute that people who are continuous learners possess. They understand that in the world we live today, "change is inevitable, but survival is optional". I believe anxiety and underlying fear is what inhibits many people who have *fixed mindsets*.
 
 Three different things that help to keep me in a ***growth mindset*** include:
