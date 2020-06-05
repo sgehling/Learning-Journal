@@ -14,5 +14,5 @@
   
   Here is my [GitHub portfolio page](https://sgehling.github.io/Learning-Journal/). 
 
-[### Lab 01B--Learning Markdown]( )
+[### Lab 01B--Learning Markdown](https://github.com/sgehling/Learning-Journal/edit/master/Lab%2001B--Learning%20Markdown.md)
 
