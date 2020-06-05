@@ -16,7 +16,7 @@ Probably not.
 
 So to explain it another way, ***markdown*** is essentially the act of performing any formating or layout design you want for your code. I consider it to be the [Process of Editing](https://en.wikipedia.org/wiki/Editing). 
 
-For example, you could *italicize* some of the text, or you could **bold face*** some of the text.  If you really wanted to emphasize a particular word, you could both *italicize* and **bold face** the word, and it would look ***like this***.
+For example, you could *italicize* some of the text, or you could **bold face** some of the text.  If you really wanted to emphasize a particular word, you could both *italicize* and **bold face** the word, and it would look ***like this***.
 
 You can even emphasize lists within your text, which is helpful when you are discussing your favorite flavors of ice cream:
   1. Vanilla
