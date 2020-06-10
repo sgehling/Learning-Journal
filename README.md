@@ -16,4 +16,4 @@
 
 [Lab 01B--Learning Markdown](https://github.com/sgehling/Learning-Journal/blob/master/Lab2001BLearningMarkdown.md)
 
-[Read 01--Learning Markdown](Read01LearningMarkdown.md)
+[Read 01--Learning Markdown](/Read01LearningMarkdown.md)
