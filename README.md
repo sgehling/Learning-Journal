@@ -12,7 +12,7 @@
   
   The reason I am taking this class is so I can have a better understanding of computer coding, and how it might provide a competitive advantage for my telehealth business. 
   
-Here is my [GitHub portfolio page](README.md). 
-[Lab 01B--Learning Markdown](Lab01BLearningMarkdown.md)
-[Read 01--Learning Markdown](Read01LearningMarkdown.md)
-[Read 02--The Coder's Computer](Read02TheCodersComputer.md)
+- Here is my [GitHub portfolio page](README.md).
+- [Lab 01B--Learning Markdown](Lab01BLearningMarkdown.md)
+- [Read 01--Learning Markdown](Read01LearningMarkdown.md)
+- [Read 02--The Coder's Computer](Read02TheCodersComputer.md)
