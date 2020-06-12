@@ -4,7 +4,7 @@
 ## Table of Contents
 
 ### About Me
-  I live on an acreage near Carroll with my husband and four children. We just celebrated our 30th wedding anniversary. My husband has a business called [GehlPRO Welding](http://gehlprowelding.com/). I have a business as well. It is called **Classroom Clinic**.
+  Hello. My name is Sue. I live on an acreage near Carroll with my husband and four children. We just celebrated our 30th wedding anniversary. My husband has a business called [GehlPRO Welding](http://gehlprowelding.com/). I have a business as well. It is called **Classroom Clinic**.
   
   My oldest child will be a senior at Iowa State University in the fall.  He is majoring in [Agriculture Systems Technology](https://www.abe.iastate.edu/undergraduate-students/agricultural-systems-technology/). My oldest daughter will be a sophomore at the [University of Iowa](https://www.nursing.uiowa.edu/); she is majoring in their nursing program. I have another daughter who will be in 10th grade and a third daughter who will be in 4th grade this fall. They both attend [Kuemper Catholic school]( https://www.kuemper.org/) in Carroll. 
   
