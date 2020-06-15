@@ -1,7 +1,7 @@
 
 # Different types of text editors, *and features you should consider*.
 Important features to consider when evaluating text editors include the following:
-- #Code Completion#:Code completion allows you to start typing, and the code completion feature displays possible suggestions based on what you originally typed.
+- # Code Completion # Code completion allows you to start typing, and the code completion feature displays possible suggestions based on what you originally typed.
 - Syntax Highlighting
 This feature takes the text you type and makes it more noticeable by colorizing the text.
 - Variety of Themes
