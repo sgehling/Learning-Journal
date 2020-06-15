@@ -8,7 +8,9 @@ Important features to consider when evaluating text editors include the followin
 
 
 # Basic Terminal Usage "Cheat Sheet" #
-
+Command|Definition
+------------------
+pwd|print working document
 
 
 
