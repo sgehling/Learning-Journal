@@ -9,26 +9,14 @@ Important features to consider when evaluating text editors include the followin
 
 # Basic Terminal Usage "Cheat Sheet" #
 
-`Command` | Definition
-------------------
-`pwd` | print working document (path to where terminal is currently located)
--------------------
-`cd` | change directory
--------------------
-`ls` | list
---------------------
-`mkdir` | make directory (creates new folder)
--------------------------------------
-`rmdir` | remove directory (deletes the folder)
------------------------------------------
-`clear` | clears everything
-------------------------------
-`cd D(tab key)` | Tab completion (when typing something, by pressing tab, you can autocomplete what you were typing)
----------------------------------------------------
-`cd ..` | Go back to previous directory
---------------------------------------
-`touch` | creates a new file on the command line
---------------------------------------------
-
-
-
+| `Command` | Definition |
+| ----- | ---------- |
+| `pwd` | print working document (path to where terminal is currently located) |
+| `cd` | change directory |
+| `ls` | list |
+| `mkdir` | make directory (creates new folder) |
+| `rmdir` | remove directory (deletes the folder) |
+| `clear` | clears everything |
+| `cd D(tab key)` | Tab completion (when typing something, by pressing tab, you can autocomplete what you were typing) |
+| `cd ..` | Go back to previous directory |
+| `touch` | creates a new file on the command line |
