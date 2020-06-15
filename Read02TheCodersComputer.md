@@ -7,9 +7,10 @@ Important features to consider when evaluating text editors include the followin
 - **Extensions**: Extensions are similar to plug-ins that give you more functionality that you wouldn't otherwise have. Extensions are like plugins for your text editor, that allows you to have superpowers that you wouldn't otherwise have.
 
 
-For now, take notes on how commands are used, and which look similar to how you are used to using the GUI File Explorer/Finder.
+Basic Terminal Usage "Cheat Sheet".
 
 The Command Line
 Basic Navigation
 About Files
 Record in your journal a “cheat sheet” or other resource for basic terminal usage.
+
