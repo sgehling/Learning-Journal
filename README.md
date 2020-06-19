@@ -16,4 +16,4 @@
 - [Lab 01B--Learning Markdown](Lab01BLearningMarkdown.md)
 - [Read 01--Learning Markdown](Read01LearningMarkdown.md)
 - [Read 02--The Coder's Computer](Read02TheCodersComputer.md)
-- [Read 03--Revisions and the Cloud(Read03RevisionsandtheCloud.md)
+- [Read 03--Revisions and the Cloud](Read03RevisionsandtheCloud.md)
