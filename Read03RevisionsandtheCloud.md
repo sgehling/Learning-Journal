@@ -16,7 +16,10 @@ Click [here](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/)
 Now that your repository has been ***cloned***, just follow these easy steps whenever making changes:
 
 1.`git status` allows you to visualize changes you have made
+
 2. `git add` allows you to add all of your changes
+
 3. `git commit-m 'details'` allows you to describe why/what you made the changes
+
 4. `git push origin master` allows you to send your changes to you **Github** repository.
 
