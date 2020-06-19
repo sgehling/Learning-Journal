@@ -15,7 +15,7 @@ Click [here](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/)
 
 Now that your repository has been ***cloned***, just follow these easy steps whenever making changes:
 
-1.`git status` allows you to visualize changes you have made
+1. `git status` allows you to visualize changes you have made
 
 2. `git add` allows you to add all of your changes
 
