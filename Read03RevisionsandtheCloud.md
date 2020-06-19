@@ -14,7 +14,7 @@ Click [here](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/)
 
 
 Now that your repository has been ***cloned***, just follow these easy steps whenever making changes:
---1. Add
---2. Commit
---3. Push
+1. Add
+2. Commit
+3. Push
 
